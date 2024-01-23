@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src="./images/thymeleaf_logo_300x100.png" alt="Thymeleaf">
 <!--
 **Sarabik/Sarabik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
