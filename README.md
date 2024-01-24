@@ -1,8 +1,16 @@
 ### ABOUT ME
 
-### SKILLS
+Hello! My name is Lidija. I love exact sciences and am passionate about information technology.
 
-<img src="./images/Java_S.png" alt="Java" height="70"><img src="./images/Spring.png" alt="Spring Framework" height="70">
+### MY CONTACTS
+
+<a href="mailto:dalilija@gmail.com"><img src="images/mail.png" alt="dalilija@gmail.com"></a>
+<a href="https://www.linkedin.com/in/lidija-silantjeva-75b911244/"><img src="images/linkedin.png" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/lidija-silantjeva-75b911244/"><img src="images/telegram.png" alt="Telegram"></a>
+
+### TOOLS
+
+<img src="images/Java_S.png" alt="Java" height="70"><img src="./images/Spring.png" alt="Spring Framework" height="70">
 <img src="./images/postgresql.png" alt="PostgreSQL" height="70">
 <img src="./images/Maven.png" alt="Maven" height="70">
 <img src="./images/Liquibase.png" alt="Liquibase" height="70">
